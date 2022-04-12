@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/altynbubu/Рабочий стол/work1/Django_work/djangogirls/mysite/venv/bin/python" "$0" "$@"
+'''exec' "/home/altynbubu/Рабочий стол/work1/Django_work/djangogirls/mysite1/venv/bin/python" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
